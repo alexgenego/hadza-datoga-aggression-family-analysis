@@ -146,6 +146,6 @@ This software license does **not** grant rights to restricted participant-level 
 
 ## Archival citation
 
-Privacy-safe GitHub release: `v1.0.2` (to be archived in Zenodo).
+Privacy-safe GitHub release: `v1.0.2`.
 
-The DOI of the earlier `v1.0.1` record is retained only as the restricted historical version. The DOI for the privacy-safe `v1.0.2` archive will be added here after publication in Zenodo.
+Zenodo DOI for the privacy-safe `v1.0.2` archive: **10.5281/zenodo.24407283**. The earlier `v1.0.1` record remains a restricted historical version. Concept DOI for all versions: **10.5281/zenodo.24247325**.
